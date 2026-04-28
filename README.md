@@ -17,7 +17,7 @@ Guest presses SOS → Firebase alerts all staff in under 2 seconds
 |---|---|
 | Mobile + Web | Flutter |
 | Real-time alerts | Firebase Realtime Database |
-| AI brief | Gemini 1.5 Flash (direct Flutter call) |
+| AI brief | Gemini 1.5 Flash |
 | Auth | Firebase Auth |
 | Deployment | Firebase Hosting |
 
@@ -30,7 +30,5 @@ flutter pub get
 flutter run --dart-define=GEMINI_KEY=your_key
 
 ## Live demo
-https://crisisiq-XXXXX.web.app
+https://crisisiq-7b8aa.web.app/
 
-## Team
-[Your names and college]
