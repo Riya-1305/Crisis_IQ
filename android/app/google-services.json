@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948734981608",
+    "project_id": "crisisiq-7b8aa",
+    "storage_bucket": "crisisiq-7b8aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948734981608:android:48a4fe43c0fc8998bda05d",
+        "android_client_info": {
+          "package_name": "com.example.crisisiq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4vBDkC-eTHUL5LHF8U-JUy6zEhCwapHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
